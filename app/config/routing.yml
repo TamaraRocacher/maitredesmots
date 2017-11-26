@@ -1,3 +1,4 @@
-app:
-    resource: '@AppBundle/Controller/'
-    type: annotation
+tr_maitre_des_mots:
+    resource: "@TRMaitreDesMotsBundle/Resources/config/routing.yml"
+    prefix:   /
+
